@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 
 node version: 18.16.0
 react version: 18.2.0
+demolink: https://movietask-locad.netlify.app/
